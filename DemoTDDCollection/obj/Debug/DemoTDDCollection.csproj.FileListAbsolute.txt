@@ -5,3 +5,10 @@ F:\Ilya\С#kurs\DemoTDDCollection\DemoTDDCollection\obj\Debug\DemoTDDCollection.
 F:\Ilya\С#kurs\DemoTDDCollection\DemoTDDCollection\obj\Debug\DemoTDDCollection.csproj.CoreCompileInputs.cache
 F:\Ilya\С#kurs\DemoTDDCollection\DemoTDDCollection\obj\Debug\DemoTDDCollection.exe
 F:\Ilya\С#kurs\DemoTDDCollection\DemoTDDCollection\obj\Debug\DemoTDDCollection.pdb
+F:\Ilya\GIT_rep\DemoTDDCollection\DemoTDDCollection\bin\Debug\DemoTDDCollection.exe.config
+F:\Ilya\GIT_rep\DemoTDDCollection\DemoTDDCollection\bin\Debug\DemoTDDCollection.exe
+F:\Ilya\GIT_rep\DemoTDDCollection\DemoTDDCollection\bin\Debug\DemoTDDCollection.pdb
+F:\Ilya\GIT_rep\DemoTDDCollection\DemoTDDCollection\obj\Debug\DemoTDDCollection.csprojAssemblyReference.cache
+F:\Ilya\GIT_rep\DemoTDDCollection\DemoTDDCollection\obj\Debug\DemoTDDCollection.csproj.CoreCompileInputs.cache
+F:\Ilya\GIT_rep\DemoTDDCollection\DemoTDDCollection\obj\Debug\DemoTDDCollection.exe
+F:\Ilya\GIT_rep\DemoTDDCollection\DemoTDDCollection\obj\Debug\DemoTDDCollection.pdb
