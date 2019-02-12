@@ -1,0 +1,7 @@
+F:\Ilya\С#kurs\DemoTDDCollection\DemoTDDCollection\bin\Debug\DemoTDDCollection.exe.config
+F:\Ilya\С#kurs\DemoTDDCollection\DemoTDDCollection\bin\Debug\DemoTDDCollection.exe
+F:\Ilya\С#kurs\DemoTDDCollection\DemoTDDCollection\bin\Debug\DemoTDDCollection.pdb
+F:\Ilya\С#kurs\DemoTDDCollection\DemoTDDCollection\obj\Debug\DemoTDDCollection.csprojAssemblyReference.cache
+F:\Ilya\С#kurs\DemoTDDCollection\DemoTDDCollection\obj\Debug\DemoTDDCollection.csproj.CoreCompileInputs.cache
+F:\Ilya\С#kurs\DemoTDDCollection\DemoTDDCollection\obj\Debug\DemoTDDCollection.exe
+F:\Ilya\С#kurs\DemoTDDCollection\DemoTDDCollection\obj\Debug\DemoTDDCollection.pdb
